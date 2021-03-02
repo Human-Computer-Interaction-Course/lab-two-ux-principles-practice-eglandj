@@ -3,3 +3,25 @@
     src:  url('../fonts/calibril.woff2') format('woff2'),
         url('../fonts/calibril.woff') format('woff');
 }
+
+body{
+    margin:0%;
+}
+
+h1{
+    font-size: 200%;
+    margin-top: auto;
+    text-align: left;
+}
+
+li{
+    margin-top: auto;
+    font-size: 120%;
+
+}
+
+#mainImage{
+    margin-top: auto;
+    padding-top: 0%;
+    width: 100%;
+}
